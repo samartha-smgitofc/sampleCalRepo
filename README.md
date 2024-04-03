@@ -1,3 +1,3 @@
 # sampleCalRepo
 
-This is Readme File of this repository.
+This is Readme File of this calculation repository.
